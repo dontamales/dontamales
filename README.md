@@ -1,16 +1,23 @@
-## Hi there 👋
+<!-- README.md -->
+<div align="center">
+  <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #2c3e50;">Bienvenido a Mi Perfil</h1>
+  <p style="font-size: 18px; color: #34495e;">Hola, soy [Tu Nombre], apasionado del desarrollo y la tecnología.</p>
+  <img src="https://via.placeholder.com/600x200" alt="Banner" style="max-width: 100%; border-radius: 10px;">
+</div>
 
-<!--
-**dontamales/dontamales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+<div>
+  <h2 style="color: #2c3e50;">Sobre Mí</h2>
+  <p>Soy un desarrollador que disfruta creando soluciones y colaborando en proyectos open source. Siempre en busca de aprender algo nuevo y enfrentar nuevos retos.</p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <h2 style="color: #2c3e50;">Contacto</h2>
+  <p>Puedes seguirme o contactarme en mis redes sociales:</p>
+  <ul>
+    <li><a href="https://twitter.com/tu_usuario" target="_blank">Twitter</a></li>
+    <li><a href="https://linkedin.com/in/tu_usuario" target="_blank">LinkedIn</a></li>
+    <li><a href="mailto:tu_correo@example.com" target="_blank">Email</a></li>
+  </ul>
+</div>

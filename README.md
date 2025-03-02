@@ -15,9 +15,9 @@
 
 <div>
   <h2 style="color: #2c3e50;">Contacto</h2>
-  <p>Puedes seguirme o contactarme en mis redes sociales:</p>
+  <p>Estas son algunas de redes:</p>
   <ul>
-    <li><a href="[https://linkedin.com/in/tu_usuario](https://www.linkedin.com/in/eduardo-hinojo-5b922634b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">LinkedIn</a></li>
+    <li><a href="https://www.linkedin.com/in/eduardo-hinojo-5b922634b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">LinkedIn</a></li>
     <li><a href="mailto:jesushinojo9@gmail.com" target="_blank">Email</a></li>
   </ul>
 </div>

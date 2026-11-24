@@ -9,7 +9,7 @@
 
 <div>
   <h2 style="color: #2c3e50;">Sobre Mí</h2>
-  <p>Actualmente estudiante en el ITCJ</p>
+  <p>Actualmente Ingeniero en sistemas computacionales</p>
   <p>SI.</p>
 </div>
 
